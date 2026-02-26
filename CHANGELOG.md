@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0.2 - 2026-02-26
+
+- Updated README docs to focus on user value and installation only.
+- Removed ClawHub publishing instructions from README files.
+- Aligned skill naming in docs with repository name (`xhunt-hot-tweets-skill`).
+- Added clear install guides for both GitHub and ClawHub paths.
+
 ## 2.0.1 - 2026-02-26
 
 - Added publishing-ready docs (`README.md`, `README.zh-CN.md`).

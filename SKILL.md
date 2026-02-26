@@ -4,7 +4,7 @@ description: 从 XHunt 抓取 X/Twitter 热门推文榜单并输出中文摘要�
 compatibility: 需要可访问 https://trends.xhunt.ai；优先 browser 快照抓取，失败时可降级 web_fetch（结果可能不完整）。
 metadata:
   author: Javis
-  version: 2.0.1
+  version: 2.0.2
 ---
 
 # XHunt 热门推文提取（v2）
